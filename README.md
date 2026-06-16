@@ -1,5 +1,7 @@
 # node-express-ecommerce
 
+![node-express-ecommerce](node-express-ecommerce.png)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![TypeScript](https://img.shields.io/badge/TypeScript-6.0-3178C6?logo=typescript)](https://www.typescriptlang.org)
 [![Express](https://img.shields.io/badge/Express-5-000000?logo=express)](https://expressjs.com)
